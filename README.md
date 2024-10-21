@@ -10,3 +10,9 @@ In a competitive market like the restaurant industry, understanding the factors 
 * Quantify the correlation between user engagement (reviews, tips, check-ins) and review count/average star rating.
 * Analyze the impact of sentiment on review count and average star rating.
 * Time trends in user engagement.
+
+## Data Overview
+* This datset is a subset of YELP and has information about businesses across 8 metropolitan areas in the USA and Canada.
+* The original data is shared by YELP as JSON files.
+* The five JSON files are business, review, user, tip, and check-in.
+* The JSON files are stored in the database for easy retrieval of data.
