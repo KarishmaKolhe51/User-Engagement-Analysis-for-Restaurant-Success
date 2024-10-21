@@ -1,6 +1,6 @@
 # User-Engagement-Analysis-for-Restaurant-Success
 
-# About YELP
+## About YELP
 Yelp is a web and mobile paltform that functions as a crowd-sourced local business review site. Users can submit reviews, photos, and tips about businesses, while also browsing information and ratings left by others.
 
 ## Problem Statement 
