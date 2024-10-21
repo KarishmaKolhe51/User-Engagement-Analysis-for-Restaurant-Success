@@ -16,3 +16,12 @@ In a competitive market like the restaurant industry, understanding the factors 
 * The original data is shared by YELP as JSON files.
 * The five JSON files are business, review, user, tip, and check-in.
 * The JSON files are stored in the database for easy retrieval of data.
+
+## Concept Used
+* Feature Creation
+* Relationship between Features
+* Exploratory Data Analysis (EDA)
+* Correlation Analysis
+* Sentiment Analysis
+* Hypothesis Testing
+  
