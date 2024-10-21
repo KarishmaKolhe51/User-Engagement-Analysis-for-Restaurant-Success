@@ -24,4 +24,5 @@ In a competitive market like the restaurant industry, understanding the factors 
 * Correlation Analysis
 * Sentiment Analysis
 * Hypothesis Testing
+* Missing values - Outlier treatment / Types of outliers
   
